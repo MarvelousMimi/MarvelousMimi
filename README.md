@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarvelousMimi
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Good Tech Internships
 - 📫 How to reach me at ezirimmiracle4@gmail.com
